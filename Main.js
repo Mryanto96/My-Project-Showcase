@@ -1,5 +1,4 @@
- <!-- ===== SCRIPTS ===== -->
-    <script>
+
       // Mobile Menu Toggle
       const mobileMenuBtn = document.querySelector(".mobile-menu-btn");
       const mobileMenuClose = document.querySelector(".mobile-menu-close");
@@ -82,4 +81,4 @@
           });
         }
       });
-    </script>
+ 
